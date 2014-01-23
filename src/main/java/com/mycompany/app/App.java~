@@ -12,12 +12,12 @@ public class App
 	
 	if(leeftijd < 0)
 	{
-		System.out.println("Dat kan niet.");
+		System.out.println("Dat kan nieffft.");
 	}
 	
 	else if(leeftijd > 0 && leeftijd < 18)
 	{
-		System.out.println("Je bentfff nog jong.");
+		System.out.println("Je bent nog jong.");
 	}
 	
 	else if(leeftijd >= 18)
