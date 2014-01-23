@@ -7,12 +7,12 @@ public class App
     public static void main( String[] args )
     {
 	Scanner reader = new Scanner(System.in);
-	System.out.println("Wat is je leeftijd?");
+	System.out.println("Wat is je fleeftijd?");
 	int leeftijd = reader.nextInt();
 	
 	if(leeftijd < 0)
 	{
-		System.out.println("Dat kan nieffft.");
+		System.out.println("Dat kan niet.");
 	}
 	
 	else if(leeftijd > 0 && leeftijd < 18)

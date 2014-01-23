@@ -7,7 +7,7 @@ public class App
     public static void main( String[] args )
     {
 	Scanner reader = new Scanner(System.in);
-	System.out.println("Wat is je leeftijd?");
+	System.out.println("Wat is je fleeftijd?");
 	int leeftijd = reader.nextInt();
 	
 	if(leeftijd < 0)
