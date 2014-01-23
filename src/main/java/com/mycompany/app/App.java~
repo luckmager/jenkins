@@ -15,7 +15,7 @@ public class App
 		System.out.println("Dat kan niet.");
 	}
 	
-	else if(leeftijd > 0 && < 18)
+	else if(leeftijd > 0 && leeftijd < 18)
 	{
 		System.out.println("Je bent nog jong.");
 	}
